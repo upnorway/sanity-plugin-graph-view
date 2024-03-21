@@ -1,6 +1,6 @@
 {
   "name": "@upnorway/sanity-plugin-graph-view",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "",
   "homepage": "https://github.com/upnorway/sanity-plugin-graph-view#readme",
   "bugs": {
@@ -24,7 +24,7 @@
   "main": "./lib/index.js",
   "module": "./lib/index.esm.js",
   "source": "./src/index.ts",
-  "types": "./lib/src/index.d.ts",
+  "types": "./lib/index.d.ts",
   "type": "commonjs",
   "files": [
     "src",
