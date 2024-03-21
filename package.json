@@ -1,6 +1,6 @@
 {
   "name": "@upnorway/sanity-plugin-graph-view",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "homepage": "https://github.com/sanity-io/sanity-plugin-graph-view#readme",
   "bugs": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanity-io/sanity-plugin-graph-view.git"
+    "url": "git@github.com:upnorway/sanity-plugin-graph-view.git"
   },
   "license": "MIT",
   "author": "Sanity.io <hello@sanity.io>",
